@@ -1,5 +1,5 @@
 ### Hola soy Daniel Rodriguez 👋
-[![Black-Technology-Linked-In-Banner.png](https://i.postimg.cc/W3dzYb06/Black-Technology-Linked-In-Banner.png)](https://postimg.cc/mzGTt4Xt)
+[![Black-Technology-Linked-In-Banner.png](https://i.postimg.cc/W3dzYb06/Black-Technology-Linked-In-Banner.png)](https://github.com/Castorboy057/TrabajosEstructura/tree/main)
 
 <!--
 **Castorboy057/castorboy057** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
