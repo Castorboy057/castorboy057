@@ -1,5 +1,7 @@
 ### Hola soy Daniel Rodriguez 👋
 [![Black-Technology-Linked-In-Banner.png](https://i.postimg.cc/W3dzYb06/Black-Technology-Linked-In-Banner.png)](https://github.com/Castorboy057/TrabajosEstructura/tree/main)
+[![Facebook Follow](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white
+)](https://www.facebook.com/profile.php?id=100001517171818&mibextid=ZbWKwL)
 
 <!--
 **Castorboy057/castorboy057** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
